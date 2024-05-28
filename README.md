@@ -3,7 +3,7 @@ This is a documentation of the HR Analysis Project that I did.
 
 ## Table of contents
 - INTRODUCTION
-- PROJECT Objective
+- PROJECT OBJECTIVE 
 - TECH STACK
 - DATA COLLECTION
 - DATA TRANSFORMATION
