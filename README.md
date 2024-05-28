@@ -62,6 +62,8 @@ I worked with a star schema for this project. The company data was the fact tabl
 
 ![Git](https://github.com/N3zzar/HR-Analysis-Project/assets/85373417/259c5ef4-0c76-467d-a729-36c965fddd74)
 
+----
+
 ## DATA VISUALIZATION
 ![image](https://github.com/N3zzar/HR-Analysis-Project/assets/85373417/f0aa3ed9-048f-461f-8c3a-c2d945bdc18c)
 ![image](https://github.com/N3zzar/HR-Analysis-Project/assets/85373417/293f2094-6d37-44aa-ba37-5a69cd71f49a)
