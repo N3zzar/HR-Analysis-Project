@@ -16,7 +16,7 @@ This is a documentation of the HR Analysis Project that I did.
 
 ---
 ## INTRODUCTION
-This is a personal project that i decided to work on to cap off everything I've learnt in PowerBI so far. It is a dataset in the HR Domain which i am passionate about because it helps bridge the gap between my two interests - Finding patterns and understanding humans. It will serve as a reference if I should be asked for projects that I've done that I'm passionate about.
+This is a personal project that i decided to work on to cap off everything I've learnt in PowerBI so far. It is a dataset in the HR Domain which I am passionate about because it helps bridge the gap between my two interests - Finding patterns and understanding humans. It will serve as a reference if I should be asked for projects that I've done that I'm passionate about.
 
 
 ---
@@ -75,8 +75,8 @@ A more wordy explanation of the analysis can be found on the medium documentatio
 
 ---
 ## DATA AND REPORT LIMITATION
-- It was a fictitious data as it didnt really reflect some real-life data that i needed.
-- My design skills isn't that great yet so i just kept it simple.
+- It was a fictitious data as it didn't really reflect some real-life data that I needed.
+- My design skills isn't that great yet so I just kept it simple.
 - I couldn't think of any other insights to generate on the survey data.
 
 
@@ -87,5 +87,7 @@ In conclusion, this PowerBI Project "HR Analysis of Nezzar Inc." aimed to provid
 ---
 ## FURTHER DOCUMENTATION
 **You can read the non-technical documentation on medium here**
+
+https://medium.com/@ebenezertomoye/hr-analysis-of-a-fictitious-company-nezzar-inc-957b4bc9de1b
 
 
