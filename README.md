@@ -90,4 +90,8 @@ In conclusion, this PowerBI Project "HR Analysis of Nezzar Inc." aimed to provid
 
 https://medium.com/@ebenezertomoye/hr-analysis-of-a-fictitious-company-nezzar-inc-957b4bc9de1b
 
+**You can also interact with the visualization here**
+
+https://app.powerbi.com/view?r=eyJrIjoiNjQ2NDY2YWYtZDJlMi00OGJlLWE2MWQtNjIzNTI1NTFkODgzIiwidCI6ImQ3NWRlYTkyLTk2MjktNGZmYi05ZGExLTVmNjcyMTBiNjM1ZCJ9
+
 
